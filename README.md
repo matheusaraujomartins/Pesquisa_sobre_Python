@@ -1,6 +1,6 @@
 # Linguagem de programação Python
 Uma pesquisa sobre a linguagem de programação Python
-### O que é Python? -> Logo do Python 
+### O que é Python? <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="60px">
 ---
 O Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
 
