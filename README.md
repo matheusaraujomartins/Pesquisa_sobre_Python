@@ -1,5 +1,8 @@
 # Linguagem de programação Python
 Uma pesquisa sobre a linguagem de programação Python
+
+
+
 ### O que é Python? <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png" width="60px">
 ---
 O Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte.
@@ -9,6 +12,8 @@ A linguagem foi projetada com a filosofia de enfatizar a importância do esforç
 Devido às suas características, ela é utilizada, principalmente, para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web. 
 
 É uma linguagem de código aberto, fácil de aprender, e possuí uma comunidade que provê todo o suporte necessário. 
+
+
 
 ### Origem / desenvolvimento <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQJ6QR-aRX0k9M_HEY-UQLtWi4NgQxumYkj3on3oXb9aJ97JEItr6cA-uicO_mYTf97t74agqS_WvqKYkLMdH8d_u4h11sI8xzByRIjCc" width="60px">
 ---
@@ -32,13 +37,9 @@ Além disso, é uma linguagem interpretada, o que significa que executa diretame
 
  
 
- 
-
 ### Utilidade <img src="https://cdn.prod.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" width="60px">
 ---
 Devido às suas características, o Python é utilizado, principalmente, para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web, sendo bastante utilizado em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. 
-
- 
 
  
 
@@ -50,7 +51,9 @@ A linguagem se tornou a padrão no curso de ciências da computação do MIT em 
 
 Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
 
-Referências
+
+
+### Referências
 ---
 Mais sobre Python:
 
