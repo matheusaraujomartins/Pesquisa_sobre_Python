@@ -10,7 +10,7 @@ Devido às suas características, ela é utilizada, principalmente, para process
 
 É uma linguagem de código aberto, fácil de aprender, e possuí uma comunidade que provê todo o suporte necessário. 
 
-### Origem / desenvolvimento -> Foto do criador 
+### Origem / desenvolvimento <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvQJ6QR-aRX0k9M_HEY-UQLtWi4NgQxumYkj3on3oXb9aJ97JEItr6cA-uicO_mYTf97t74agqS_WvqKYkLMdH8d_u4h11sI8xzByRIjCc" width="60px">
 ---
 O Python foi concebido no final de 1989 por Guido van Rossum no Instituto de Pesquisa Nacional para Matemática e Ciência da Computação (CWI), nos Países Baixos. 
 
