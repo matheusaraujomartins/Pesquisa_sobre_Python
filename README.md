@@ -20,7 +20,7 @@ A linguagem foi projetada com a filosofia de enfatizar a importância do esforç
 
  
 
-### Características 
+### Características <img src="https://www.openmindt.com/wp-content/uploads/2023/11/how-to-choose-your-programming-language-for-your-software.jpg" width="60px">
 ---
 Uma das principais características do Python é permitir a fácil leitura do código e exigir poucas linhas de código se comparado ao mesmo programa em outras linguagens. 
 
@@ -34,7 +34,7 @@ Além disso, é uma linguagem interpretada, o que significa que executa diretame
 
  
 
-### Utilidade
+### Utilidade <img src="https://cdn.prod.website-files.com/606907b169dcd481e8fd42c4/628fcc28ae967c5ccc32de0c_data-science.jpg" width="60px">
 ---
 Devido às suas características, o Python é utilizado, principalmente, para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web, sendo bastante utilizado em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. 
 
@@ -48,4 +48,19 @@ O nome da linguagem foi inspirado no programa de TV da BBC “Monty Python’s F
 
 A linguagem se tornou a padrão no curso de ciências da computação do MIT em 2009 
 
-Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk. 
+Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
+
+Referências
+---
+Mais sobre Python:
+
+https://pt.wikipedia.org/wiki/Python 
+
+https://aws.amazon.com/pt/what-is/python/ 
+
+https://harve.com.br/blog/programacao-python-blog/python-para-que-serve-top-5-utilidades/ 
+
+ 
+Aprenda Python:
+
+https://www.python.org/about/gettingstarted/ 
