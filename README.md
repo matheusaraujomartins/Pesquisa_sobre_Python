@@ -34,7 +34,7 @@ Além disso, é uma linguagem interpretada, o que significa que executa diretame
 
  
 
-### Utilidade -> alguma imagem para ilustrar (a menos que esteja ok)
+### Utilidade
 ---
 Devido às suas características, o Python é utilizado, principalmente, para processamento de textos, dados científicos e criação de CGIs para páginas dinâmicas para a web, sendo bastante utilizado em data science, machine learning, desenvolvimento de web, desenvolvimento de aplicativos, automação de scripts, fintechs e mais. 
 
@@ -42,7 +42,7 @@ Devido às suas características, o Python é utilizado, principalmente, para pr
 
  
 
-### Curiosidades -> Imagem Monty Python’s Flying Circus 
+### Curiosidades <img src="https://m.media-amazon.com/images/S/pv-target-images/93a73108edf41d138928e55063841987bd3ec28c1b881c102654fdbcdd0ad27c.jpg" width="60px">
 ---
 O nome da linguagem foi inspirado no programa de TV da BBC “Monty Python’s Flying Circus”, porque Guido Van Rossum era um grande fã do programa. 
 
