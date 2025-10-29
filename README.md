@@ -41,11 +41,9 @@ Devido às suas características, o Python é utilizado, principalmente, para pr
 
 ## Curiosidades <img src="https://m.media-amazon.com/images/S/pv-target-images/93a73108edf41d138928e55063841987bd3ec28c1b881c102654fdbcdd0ad27c.jpg" width="60px">
 
-O nome da linguagem foi inspirado no programa de TV da BBC “Monty Python’s Flying Circus”, porque Guido Van Rossum era um grande fã do programa. 
-
-A linguagem se tornou a padrão no curso de ciências da computação do MIT em 2009 
-
-Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
+1. O nome da linguagem foi inspirado no programa de TV da BBC “Monty Python’s Flying Circus”, porque Guido Van Rossum era um grande fã do programa;
+2. A linguagem se tornou a padrão no curso de ciências da computação do MIT em 2009;
+3. Foi considerada pelo público a 3ª linguagem "mais amada", de acordo com uma pesquisa conduzida pelo site Stack Overflow em 2018 e está entre as 5 linguagens mais populares, de acordo com uma pesquisa conduzida pela RedMonk.
 
 
 ## Referências
